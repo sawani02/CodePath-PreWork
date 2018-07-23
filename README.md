@@ -1,7 +1,6 @@
 # CodePath-PreWork
 
  Checkponts from interview bit website. It is a pre-work required for Interview prep study group by code path.
- I will add topic related files further.
 
 Name | Link
 --- | --- 
