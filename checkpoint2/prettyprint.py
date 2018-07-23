@@ -1,5 +1,7 @@
 
 # Question: Print concentric rectangular pattern in a 2d matrix. 
+#Question link: https://www.interviewbit.com/problems/prettyprint/
+
 
 class Solution:
     # @param A : integer
